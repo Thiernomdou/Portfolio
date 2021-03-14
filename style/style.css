@@ -4,6 +4,15 @@ body {
     height: 100vh;
 }
 
+/* navbar */
+
+.nav-link {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Kaushan Script';
+}
+
+
 /* accueil */
 
 .navbar {
@@ -11,7 +20,9 @@ body {
 }
 
 .imgProfileAcc {
-    width: 150px;
+    width: 160px;
+    border-radius: 50%;
+    height: 170px;
 }
 
 #accueil {
